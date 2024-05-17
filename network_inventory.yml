@@ -1,0 +1,16 @@
+devices:
+  - name: IOS XE on Cat8kv AlwaysOn
+    ip_address: 131.226.217.181
+    model: IOS XE
+    username: admin
+    password: C1sco12345
+  - name: Open NX-OS Programmability AlwaysOn
+    ip_address: 131.226.217.151
+    model: NX-OS
+    username: admin
+    password: Admin_1234!
+  - name: IOS XR Programmabilty AlwaysOn
+    ip_address: 131.226.217.150
+    model: IOS XR
+    username: admin
+    password: C1sco12345
